@@ -1,0 +1,6 @@
+# .gitignore for backend
+.venv/
+__pycache__/
+*.pyc
+firebaseadminsdk.json
+keys.txt
