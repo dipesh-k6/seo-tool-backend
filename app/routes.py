@@ -8,7 +8,7 @@ from flask_cors import CORS
 
 def register_routes(app: Flask):
     CORS(app, origins=[
-        "https://your-firebase-app.web.app",  # Replace with your actual Firebase Hosting domain
+        "https://rankup-blogs.web.app/",  #actual Firebase Hosting domain
         "http://localhost:5000",
         "http://localhost:3000",
         "http://127.0.0.1:5000",
